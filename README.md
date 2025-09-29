@@ -27,10 +27,10 @@
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
 🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)  
 🔹 [MAD(Tuition Management System](https://github.com/LithuniMunasinghe/MAD.git)  
- </div>
+
 
 ➡️ More on my GitHub repositories!
-
+ </div>
 ---
 
 ### 📊 GitHub Stats
