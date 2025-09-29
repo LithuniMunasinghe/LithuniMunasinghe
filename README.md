@@ -24,9 +24,9 @@
 
 💡 Skills
 
-🖥️Languages: Java, C#, C, JavaScript, PHP, SQL
-🌐Web: HTML5, CSS3, JavaScript, PHP
-🛢️Databases: MongoDB, Oracle SQL, MySQL
+🖥️Languages: Java, C#, C, JavaScript, PHP, SQL<br>
+🌐Web: HTML5, CSS3, JavaScript, PHP<br>
+🛢️Databases: MongoDB, Oracle SQL, MySQL<br>
 
 ---
 
