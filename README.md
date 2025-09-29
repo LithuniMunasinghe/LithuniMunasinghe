@@ -33,19 +33,23 @@
  📂 Projects<br><br>
 🔹 [Robotics(Garbage Collecting robot truck)](https://github.com/LithuniMunasinghe/Robotics.git)  
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
-🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)  
-🔹 [MAD(Tuition Management System)](https://github.com/LithuniMunasinghe/MAD.git).
-🔹 [IIOT(Portable soil monitoring system)](https://github.com/LithuniMunasinghe/IIOT-Coursework.git). 
-🔹 [Type-Sharp Tool(PDSA1)](https://github.com/LithuniMunasinghe/Type-Sharp-tool.git). 
+🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)
+🔹 [MAD(Tuition Management System)](https://github.com/LithuniMunasinghe/MAD.git)
+🔹 [IIOT(Portable soil monitoring system)](https://github.com/LithuniMunasinghe/IIOT-Coursework.git) 
+🔹 [Type-Sharp Tool(PDSA1)](https://github.com/LithuniMunasinghe/Type-Sharp-tool.git)
+
+
 
 
 
 ➡️ More on my GitHub repositories!
+
  </div>
  
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LithuniMunasinghe&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithuniMunasinghe&layout=compact&theme=radical&hide_border=true" height="180"/>
@@ -53,7 +57,7 @@
 
 ---
 
-### 🌐 Connect With Me
+ 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lithuni-munasinghe-ab8477350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
