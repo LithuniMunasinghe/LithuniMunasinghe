@@ -13,7 +13,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="Left">
  👩🏻‍💻 About Me
 ✨ Passionate about creating user-friendly & efficient software solutions  
 🚀 Experienced in building full-stack web apps (HTML, CSS, JavaScript, PHP, MySQL)  
