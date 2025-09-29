@@ -33,10 +33,10 @@
  📂 Projects<br><br>
 🔹 [Robotics(Garbage Collecting robot truck)](https://github.com/LithuniMunasinghe/Robotics.git)  
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
-🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)
-🔹 [MAD(Tuition Management System)](https://github.com/LithuniMunasinghe/MAD.git)
-🔹 [IIOT(Portable soil monitoring system)](https://github.com/LithuniMunasinghe/IIOT-Coursework.git) 
-🔹 [Type-Sharp Tool(PDSA1)](https://github.com/LithuniMunasinghe/Type-Sharp-tool.git)
+🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)<br>
+🔹 [MAD(Tuition Management System)](https://github.com/LithuniMunasinghe/MAD.git)<br>
+🔹 [IIOT(Portable soil monitoring system)](https://github.com/LithuniMunasinghe/IIOT-Coursework.git)<br>
+🔹 [Type-Sharp Tool(PDSA1)](https://github.com/LithuniMunasinghe/Type-Sharp-tool.git)<br>
 
 
 
