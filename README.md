@@ -31,6 +31,7 @@
 
 ➡️ More on my GitHub repositories!
  </div>
+ 
 ---
 
 ### 📊 GitHub Stats
@@ -43,13 +44,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/lithuni-munasinghe-ab8477350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target=" blank">
+  <a href="https://www.linkedin.com/in/lithuni-munasinghe-ab8477350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:lithunimunasinghe1@gmail.com" target=" blank">
+  <a href="mailto:lithunimunasinghe1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/lithuniiiii?igsh=eWNkam9yeTY0N294&utm_source=qr" target=" blank">
+  <a href="https://www.instagram.com/lithuniiiii?igsh=eWNkam9yeTY0N294&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
