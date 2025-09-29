@@ -34,7 +34,10 @@
 🔹 [Robotics(Garbage Collecting robot truck)](https://github.com/LithuniMunasinghe/Robotics.git)  
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
 🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)  
-🔹 [MAD(Tuition Management System](https://github.com/LithuniMunasinghe/MAD.git)  
+🔹 [MAD(Tuition Management System)](https://github.com/LithuniMunasinghe/MAD.git).
+🔹 [IIOT(Portable soil monitoring system)](https://github.com/LithuniMunasinghe/IIOT-Coursework.git). 
+🔹 [Type-Sharp Tool(PDSA1)](https://github.com/LithuniMunasinghe/Type-Sharp-tool.git). 
+
 
 
 ➡️ More on my GitHub repositories!
