@@ -22,6 +22,14 @@
 
 ---
 
+💡 Skills
+
+🖥️Languages: Java, C#, C, JavaScript, PHP, SQL
+🌐Web: HTML5, CSS3, JavaScript, PHP
+🛢️Databases: MongoDB, Oracle SQL, MySQL
+
+---
+
  📂 Projects<br><br>
 🔹 [Robotics(Garbage Collecting robot truck)](https://github.com/LithuniMunasinghe/Robotics.git)  
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
