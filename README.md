@@ -14,15 +14,15 @@
 
 ---
 <div align="Left">
- 👩🏻‍💻 About Me.<br>
-✨ Passionate about creating user-friendly & efficient software solutions.
-🚀 Experienced in building full-stack web apps (HTML, CSS, JavaScript, PHP, MySQL). 
-📚 Strong foundation in Java, C#, C & modern development practices.
-🌱 Currently expanding skills in React, TypeScript, and Cloud technologies.
+ 👩🏻‍💻 About Me<br><br>
+✨ Passionate about creating user-friendly & efficient software solutions<br>
+🚀 Experienced in building full-stack web apps (HTML, CSS, JavaScript, PHP, MySQL)<br> 
+📚 Strong foundation in Java, C#, C & modern development practices<br>
+🌱 Currently expanding skills in React, TypeScript, and Cloud technologies<br>
 
 ---
 
- 📂 Projects.
+ 📂 Projects<br><br>
 🔹 [Robotics(Garbage Collecting robot truck)](https://github.com/LithuniMunasinghe/Robotics.git)  
 🔹 [E-Channel](https://github.com/LithuniMunasinghe/E-Channel.git)  
 🔹 [Urban-Food](https://github.com/LithuniMunasinghe/Urban-Food.git)  
